@@ -9,6 +9,10 @@ gem 'coffee-rails'
 gem 'geocoder'
 gem 'httparty'
 gem 'jquery-rails'
+gem 'bootstrap-sass'
+gem 'figaro'
+gem 'font-awesome-rails'
+
 #########
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0'
